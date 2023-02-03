@@ -1,0 +1,19 @@
+.rt-tbody {
+    overflow: visible !important;
+}
+
+.sticky {
+    position: sticky !important;
+    left: 0;
+    top: 0;
+    z-index: 1;
+    background-color: white;
+}
+
+.sticky-2nd {
+    position: sticky !important;
+    left: 230px;
+    top: 0;
+    z-index: 1;
+    background-color: white;
+}

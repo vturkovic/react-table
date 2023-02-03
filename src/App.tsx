@@ -1,9 +1,11 @@
 import './App.css';
-import ExampleTable from './components/tableComponent';
+import TableComponent from './components/tableComponent';
+import { data } from "./userData";
+import { tableColumnData } from './tableColumnsData';
 
 const App = () => {
   return (
-    <ExampleTable />
+    <TableComponent data={data} tableColumnData={tableColumnData}/>
 )};
 
 export default App;
