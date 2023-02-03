@@ -1,6 +1,8 @@
+import { TableColumnDataInterface } from "./interfaces";
+
 const DEFAULT_COLUMN_WIDTH = 150;
 
-export const tableColumnData = [
+export const tableColumnData: TableColumnDataInterface[] = [
     {
       Header: "Id",
       accessor: "id",

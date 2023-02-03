@@ -21,7 +21,7 @@ export interface UserInterface {
     favoriteFruit: string
 }
 
-export interface tableColumnDataInterface {
+export interface TableColumnDataInterface {
     Header?: string,
     accessor?: string,
     className?: string,
@@ -31,5 +31,5 @@ export interface tableColumnDataInterface {
 
 export interface TableInterface {
     data: UserInterface[],
-    tableColumnData: tableColumnDataInterface[] 
+    tableColumnData: TableColumnDataInterface[] 
 }
