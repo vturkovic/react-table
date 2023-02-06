@@ -1,4 +1,4 @@
-import { UserInterface } from "./interfaces";
+import { UserInterface } from "../interfaces";
 
 export const data: UserInterface[] = [
     {

@@ -1,4 +1,4 @@
-import { TableColumnDataInterface } from "./interfaces";
+import { TableColumnDataInterface } from "../interfaces";
 
 const DEFAULT_COLUMN_WIDTH = 150;
 

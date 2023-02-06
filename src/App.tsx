@@ -1,7 +1,7 @@
 import './App.css';
 import TableComponent from './components/tableComponent';
-import { data } from "./userData";
-import { tableColumnData } from './tableColumnsData';
+import { data } from "./data/userData";
+import { tableColumnData } from './data/tableColumnsData';
 
 const App = () => {
   return (
