@@ -18,15 +18,15 @@
 }
 
 .rt-thead .sticky {
-    background-color: white !important;
+    background-color: white;
     box-shadow: 0 2px 15px 0 rgb(0 0 0 / 15%);
 }
 
 .rt-tr.-odd .sticky {
-    background-color: rgb(247 247 247) !important;
+    background-color: rgb(247 247 247);
 
 }
 
 .rt-tr.-even .sticky {
-    background-color: white !important;
+    background-color: white;
 }
