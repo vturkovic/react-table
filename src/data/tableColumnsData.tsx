@@ -13,13 +13,15 @@ export const tableColumnData: TableColumnDataInterface[] = [
     {
       Header: "Index",
       accessor: "index",
-      className: "sticky-2nd",
-      headerClassName: "sticky-2nd",
+      className: "sticky",
+      headerClassName: "sticky",
       width: DEFAULT_COLUMN_WIDTH - 100
     },
     {
       Header: "Guid",
       accessor: "guid",
+      className: "sticky",
+      headerClassName: "sticky",
       width: DEFAULT_COLUMN_WIDTH
     },
     {

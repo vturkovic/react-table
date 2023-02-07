@@ -7,13 +7,26 @@
     left: 0;
     top: 0;
     z-index: 1;
-    background-color: white;
 }
 
-.sticky-2nd {
-    position: sticky !important;
+.sticky:nth-of-type(2) {
     left: 230px;
-    top: 0;
-    z-index: 1;
-    background-color: white;
+}
+
+.sticky:nth-of-type(3) {
+    left: 280px;
+}
+
+.rt-thead .sticky {
+    background-color: white !important;
+    box-shadow: 0 2px 15px 0 rgb(0 0 0 / 15%);
+}
+
+.rt-tr.-odd .sticky {
+    background-color: rgb(247 247 247) !important;
+
+}
+
+.rt-tr.-even .sticky {
+    background-color: white !important;
 }
