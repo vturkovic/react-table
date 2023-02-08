@@ -1,4 +1,4 @@
-export interface UserInterface {
+export interface TableRowInterface {
     id: string,
     index: number,
     guid: string,
@@ -27,9 +27,17 @@ export interface TableColumnDataInterface {
     className?: string,
     headerClassName?: string,
     width?: number
+    Footer?: string
 }
 
 export interface TableInterface {
-    data: UserInterface[],
+    tableRowData: TableRowInterface[],
     tableColumnData: TableColumnDataInterface[] 
+}
+
+export interface SumInterface {
+    index: number,
+    age: number, 
+    latitude: number,
+    longitude: number
 }

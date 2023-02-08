@@ -1,6 +1,6 @@
-import { UserInterface } from "../interfaces";
+import { TableRowInterface } from "../interfaces";
 
-export const data: UserInterface[] = [
+export const tableRowData: TableRowInterface[] = [
     {
       "id": "63dd1bbc4d3f748f356b0521",
       "index": 0,

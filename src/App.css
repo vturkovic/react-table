@@ -21,6 +21,15 @@
     background-color: white;
 }
 
+.rt-tfoot {
+    background-color: rgb(247 247 247);
+}
+
+.rt-tfoot .sticky {
+    background-color: rgb(247 247 247);
+}
+
+
 .rt-tr.-odd .sticky {
     background-color: rgb(247 247 247);
 
