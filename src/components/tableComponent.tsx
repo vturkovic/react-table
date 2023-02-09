@@ -48,7 +48,7 @@ const TableComponent = ({ tableRowData, tableColumnData } : TableInterface) => {
       <ReactTable
         data={tableRowData}
         showPagination={true}
-        defaultPageSize={10}
+        defaultPageSize={20}
         className="-striped -highlight"
         columns={newTableColumnsData} />
     </div>
