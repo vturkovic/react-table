@@ -10,11 +10,15 @@
 }
 
 .sticky:nth-of-type(2) {
-    left: 230px;
+    left: 50px;
 }
 
 .sticky:nth-of-type(3) {
     left: 280px;
+}
+
+.sticky:nth-of-type(4) {
+    left: 330px;
 }
 
 .rt-thead .sticky {

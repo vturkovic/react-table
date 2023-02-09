@@ -1,4 +1,5 @@
 export interface TableRowInterface {
+    total: string,
     id: string,
     index: number,
     guid: string,

@@ -25,7 +25,9 @@ const TableComponent = ({ tableRowData, tableColumnData } : TableInterface) => {
 
   const addFooter = (newTableColumnsData: TableColumnDataInterface[], sum: SumInterface) => {
     newTableColumnsData.forEach(item => {
-      if (item.Header === 'Index') {
+      if (item.Header === '') {
+        item.Footer = 'Total';
+      } else if (item.Header === 'Index') {
         item.Footer = sum.index.toString();
       } else if (item.Header === 'Age') {
         item.Footer = sum.age.toString();

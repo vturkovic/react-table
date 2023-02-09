@@ -4,6 +4,13 @@ const DEFAULT_COLUMN_WIDTH = 150;
 
 export const tableColumnData: TableColumnDataInterface[] = [
     {
+      Header: "",
+      accessor: "total",
+      className: "sticky",
+      headerClassName: "sticky",
+      width: DEFAULT_COLUMN_WIDTH - 100,
+    },
+    {
       Header: "Id",
       accessor: "id",
       className: "sticky",

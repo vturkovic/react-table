@@ -2,6 +2,7 @@ import { TableRowInterface } from "../interfaces";
 
 export const tableRowData: TableRowInterface[] = [
     {
+      "total": "",
       "id": "63dd1bbc4d3f748f356b0521",
       "index": 0,
       "guid": "84812e08-dd62-4bbb-ae91-050549596202",
@@ -24,6 +25,7 @@ export const tableRowData: TableRowInterface[] = [
       "favoriteFruit": "strawberry"
     },
     {
+      "total": "",
       "id": "63dd1bbc7c042e0b6b615df8",
       "index": 1,
       "guid": "754010b5-137c-4271-8e1b-bd60ce4a73f2",
@@ -46,6 +48,7 @@ export const tableRowData: TableRowInterface[] = [
       "favoriteFruit": "banana"
     },
     {
+      "total": "",
       "id": "63dd1bbcd10e4268c9017c59",
       "index": 2,
       "guid": "0b8d261a-f992-4b76-a361-1874dc983240",
@@ -68,6 +71,7 @@ export const tableRowData: TableRowInterface[] = [
       "favoriteFruit": "strawberry"
     },
     {
+      "total": "",
       "id": "63dd1bbc6758a33babcfaf50",
       "index": 3,
       "guid": "de12785d-8867-423c-b466-9acb170a9065",
@@ -90,6 +94,7 @@ export const tableRowData: TableRowInterface[] = [
       "favoriteFruit": "banana"
     },
     {
+      "total": "",
       "id": "63dd1bbc59d6e2b051bdbb50",
       "index": 4,
       "guid": "1c357ceb-9e76-4626-8648-f71617fe25e9",
@@ -112,6 +117,7 @@ export const tableRowData: TableRowInterface[] = [
       "favoriteFruit": "apple"
     },
     {
+      "total": "",
       "id": "63dd1bbc73bee4de3da17e37",
       "index": 5,
       "guid": "9251f3de-849c-491c-8bdb-b28ed6a616b5",
@@ -134,6 +140,7 @@ export const tableRowData: TableRowInterface[] = [
       "favoriteFruit": "strawberry"
     },
     {
+      "total": "",
       "id": "63dd1bbc9b642940468d3548",
       "index": 6,
       "guid": "4c395db4-546c-42e3-8964-c2b916256101",
@@ -156,6 +163,7 @@ export const tableRowData: TableRowInterface[] = [
       "favoriteFruit": "strawberry"
     },
     {
+      "total": "",
       "id": "63dd1bbcd823fed03c8ed86e",
       "index": 7,
       "guid": "6184763c-72a2-4528-b631-7a7c7b4863dd",
@@ -178,6 +186,7 @@ export const tableRowData: TableRowInterface[] = [
       "favoriteFruit": "strawberry"
     },
     {
+      "total": "",
       "id": "63dd1bbc245774e0e7db4190",
       "index": 8,
       "guid": "ba5a37fd-9a13-448f-94b8-dee786ef856d",
@@ -200,6 +209,7 @@ export const tableRowData: TableRowInterface[] = [
       "favoriteFruit": "apple"
     },
     {
+      "total": "",
       "id": "63dd1bbc0ab20594fcf60426",
       "index": 9,
       "guid": "bbcce50c-402b-4847-9218-0d8a19013bb3",
@@ -222,6 +232,7 @@ export const tableRowData: TableRowInterface[] = [
       "favoriteFruit": "apple"
     },
     {
+      "total": "",
       "id": "63dd1bbc373401ba814a6976",
       "index": 10,
       "guid": "84725629-af90-4fe4-8147-786cf8a2bb4c",
@@ -244,6 +255,7 @@ export const tableRowData: TableRowInterface[] = [
       "favoriteFruit": "banana"
     },
     {
+      "total": "",
       "id": "63dd1bbce5888a76e94e89cd",
       "index": 11,
       "guid": "3d733c04-7fc5-4521-89df-d6a2abcfe825",
@@ -266,6 +278,7 @@ export const tableRowData: TableRowInterface[] = [
       "favoriteFruit": "banana"
     },
     {
+      "total": "",
       "id": "63dd1bbc490bc6f885dee05e",
       "index": 12,
       "guid": "89ba8b6d-d44b-440f-aebf-11355f6f20ad",
@@ -288,6 +301,7 @@ export const tableRowData: TableRowInterface[] = [
       "favoriteFruit": "apple"
     },
     {
+      "total": "",
       "id": "63dd1bbc7a1d7ca795e7a98b",
       "index": 13,
       "guid": "3980731e-fdf2-4a74-b3f2-9caf04a82672",
@@ -310,6 +324,7 @@ export const tableRowData: TableRowInterface[] = [
       "favoriteFruit": "apple"
     },
     {
+      "total": "",
       "id": "63dd1bbc265eb5bffea8cbab",
       "index": 14,
       "guid": "1219a2fe-f006-4f43-ab69-f1303ad31251",
@@ -332,6 +347,7 @@ export const tableRowData: TableRowInterface[] = [
       "favoriteFruit": "banana"
     },
     {
+      "total": "",
       "id": "63dd1bbc555d69ff5a6469bf",
       "index": 15,
       "guid": "b6d541f0-2d05-45d2-b637-c325ab80d7f7",
@@ -354,6 +370,7 @@ export const tableRowData: TableRowInterface[] = [
       "favoriteFruit": "strawberry"
     },
     {
+      "total": "",
       "id": "63dd1bbcca02e64431221208",
       "index": 16,
       "guid": "c4f85f95-7517-4762-b731-ee3aa92a7359",
@@ -376,6 +393,7 @@ export const tableRowData: TableRowInterface[] = [
       "favoriteFruit": "apple"
     },
     {
+      "total": "",
       "id": "63dd1bbc40b36de7bf49a91c",
       "index": 17,
       "guid": "8b65cc1b-039a-4e19-ab8f-958421e4efc5",
@@ -398,6 +416,7 @@ export const tableRowData: TableRowInterface[] = [
       "favoriteFruit": "banana"
     },
     {
+      "total": "",
       "id": "63dd1bbc7ecda3a3d5b52947",
       "index": 18,
       "guid": "d1f4d2d8-bd2a-43dd-b89b-0cc024650c03",
@@ -420,6 +439,7 @@ export const tableRowData: TableRowInterface[] = [
       "favoriteFruit": "strawberry"
     },
     {
+      "total": "",
       "id": "63dd1bbceae2ec1921b41268",
       "index": 19,
       "guid": "3a5b4721-c0c2-41cd-9b01-ba3de4ca34c9",
@@ -442,6 +462,7 @@ export const tableRowData: TableRowInterface[] = [
       "favoriteFruit": "strawberry"
     },
     {
+      "total": "",
       "id": "63dd1bbc5df31ba27369290f",
       "index": 20,
       "guid": "1f7a6337-dc7b-43ed-8e18-a734c97c02cc",
@@ -464,6 +485,7 @@ export const tableRowData: TableRowInterface[] = [
       "favoriteFruit": "banana"
     },
     {
+      "total": "",
       "id": "63dd1bbcfd0f3b8a4b879d21",
       "index": 21,
       "guid": "6364fcec-94c0-4f9a-8d49-398b96397098",
@@ -486,6 +508,7 @@ export const tableRowData: TableRowInterface[] = [
       "favoriteFruit": "strawberry"
     },
     {
+      "total": "",
       "id": "63dd1bbc089c1cc6a36a721b",
       "index": 22,
       "guid": "511438ee-8bec-4a63-95e6-8eec3c8109f9",
@@ -508,6 +531,7 @@ export const tableRowData: TableRowInterface[] = [
       "favoriteFruit": "strawberry"
     },
     {
+      "total": "",
       "id": "63dd1bbc982cf99a1c125050",
       "index": 23,
       "guid": "08b6dc5f-a547-4c21-b48b-e3b90f76802c",
@@ -530,6 +554,7 @@ export const tableRowData: TableRowInterface[] = [
       "favoriteFruit": "banana"
     },
     {
+      "total": "",
       "id": "63dd1bbc6abf2abd237ab614",
       "index": 24,
       "guid": "3a4685d7-cc57-443d-87dc-887be99d9236",
@@ -552,6 +577,7 @@ export const tableRowData: TableRowInterface[] = [
       "favoriteFruit": "strawberry"
     },
     {
+      "total": "",
       "id": "63dd1bbc363cdef4670a2595",
       "index": 25,
       "guid": "37fbf8e8-2431-44ca-9a2a-d3c42d58b3e1",
@@ -574,6 +600,7 @@ export const tableRowData: TableRowInterface[] = [
       "favoriteFruit": "banana"
     },
     {
+      "total": "",
       "id": "63dd1bbc27dfbf07b96e2a0c",
       "index": 26,
       "guid": "4135bdb6-ed5b-4942-bd26-3b59e1d1bdc3",
@@ -596,6 +623,7 @@ export const tableRowData: TableRowInterface[] = [
       "favoriteFruit": "strawberry"
     },
     {
+      "total": "",
       "id": "63dd1bbc9962f6f603dbc85c",
       "index": 27,
       "guid": "382fe037-93b4-47ba-8af1-4a70d42ce50b",
@@ -618,6 +646,7 @@ export const tableRowData: TableRowInterface[] = [
       "favoriteFruit": "strawberry"
     },
     {
+      "total": "",
       "id": "63dd1bbcf422a66eb2880763",
       "index": 28,
       "guid": "3239e52e-e0bf-4d04-9d13-46ea48f721c6",
@@ -640,6 +669,7 @@ export const tableRowData: TableRowInterface[] = [
       "favoriteFruit": "banana"
     },
     {
+      "total": "",
       "id": "63dd1bbca97cc989ebe365d7",
       "index": 29,
       "guid": "24016e22-b57f-48e2-820c-f9e521f67dcd",
@@ -662,6 +692,7 @@ export const tableRowData: TableRowInterface[] = [
       "favoriteFruit": "apple"
     },
     {
+      "total": "",
       "id": "63dd1bbcf9b22b473daf12a9",
       "index": 30,
       "guid": "1cb96704-8b3f-4e39-aa24-ca3f95e03938",
@@ -684,6 +715,7 @@ export const tableRowData: TableRowInterface[] = [
       "favoriteFruit": "banana"
     },
     {
+      "total": "",
       "id": "63dd1bbc70082d874d9ee2fa",
       "index": 31,
       "guid": "364b7183-e503-4bef-8f69-07ffe7f3c139",
@@ -706,6 +738,7 @@ export const tableRowData: TableRowInterface[] = [
       "favoriteFruit": "banana"
     },
     {
+      "total": "",
       "id": "63dd1bbc8b7bc0b961ba9aac",
       "index": 32,
       "guid": "da7be391-de2c-4409-afd4-6a5665adeba2",
@@ -728,6 +761,7 @@ export const tableRowData: TableRowInterface[] = [
       "favoriteFruit": "apple"
     },
     {
+      "total": "",
       "id": "63dd1bbc47995b4b6a9439cf",
       "index": 33,
       "guid": "78301d23-9cfc-4285-9a99-f62a182da77a",
@@ -750,6 +784,7 @@ export const tableRowData: TableRowInterface[] = [
       "favoriteFruit": "apple"
     },
     {
+      "total": "",
       "id": "63dd1bbcfaa414fb87a29d9f",
       "index": 34,
       "guid": "bfbda4ca-d085-44b2-9548-b081f92d1c29",
@@ -772,6 +807,7 @@ export const tableRowData: TableRowInterface[] = [
       "favoriteFruit": "strawberry"
     },
     {
+      "total": "",
       "id": "63dd1bbc8685e71166441440",
       "index": 35,
       "guid": "2bd30e6c-c2b0-41a1-b4ea-749ee8fe77af",
@@ -794,6 +830,7 @@ export const tableRowData: TableRowInterface[] = [
       "favoriteFruit": "strawberry"
     },
     {
+      "total": "",
       "id": "63dd1bbc9fafe1df6f10a138",
       "index": 36,
       "guid": "6be7e0de-3fcf-42c5-8426-dd65e2f9d4ad",
@@ -816,6 +853,7 @@ export const tableRowData: TableRowInterface[] = [
       "favoriteFruit": "strawberry"
     },
     {
+      "total": "",
       "id": "63dd1bbc79ea4f066a439548",
       "index": 37,
       "guid": "ad1b6273-b5a8-481d-91b2-2308595b1a71",
@@ -838,6 +876,7 @@ export const tableRowData: TableRowInterface[] = [
       "favoriteFruit": "banana"
     },
     {
+      "total": "",
       "id": "63dd1bbc3f238029cb220408",
       "index": 38,
       "guid": "12087dee-0e59-4891-8d26-0d292d3a97c4",
@@ -860,6 +899,7 @@ export const tableRowData: TableRowInterface[] = [
       "favoriteFruit": "banana"
     },
     {
+      "total": "",
       "id": "63dd1bbc1657897ecf74b25b",
       "index": 39,
       "guid": "30ea85e3-6602-4caa-9d7c-e1eda920dda6",
@@ -882,6 +922,7 @@ export const tableRowData: TableRowInterface[] = [
       "favoriteFruit": "banana"
     },
     {
+      "total": "",
       "id": "63dd1bbc4db59602ba369e7d",
       "index": 40,
       "guid": "b9a788b0-58f6-404a-9366-73673d3db38e",
@@ -904,6 +945,7 @@ export const tableRowData: TableRowInterface[] = [
       "favoriteFruit": "strawberry"
     },
     {
+      "total": "",
       "id": "63dd1bbc1d496ffa47bc22fb",
       "index": 41,
       "guid": "80f56b34-b0e3-4d10-b54a-bac6c8415ba0",
@@ -926,6 +968,7 @@ export const tableRowData: TableRowInterface[] = [
       "favoriteFruit": "banana"
     },
     {
+      "total": "",
       "id": "63dd1bbc4d8a000cdd117e22",
       "index": 42,
       "guid": "dbf5151f-c01c-44f9-bf14-38719d4ec3da",
@@ -948,6 +991,7 @@ export const tableRowData: TableRowInterface[] = [
       "favoriteFruit": "strawberry"
     },
     {
+      "total": "",
       "id": "63dd1bbcd9feb2bbd669a1a5",
       "index": 43,
       "guid": "1f2e256a-9a8e-4011-9a2f-ea325d580c3b",
@@ -970,6 +1014,7 @@ export const tableRowData: TableRowInterface[] = [
       "favoriteFruit": "banana"
     },
     {
+      "total": "",
       "id": "63dd1bbc2506b38f31a5ffea",
       "index": 44,
       "guid": "d99fb0b3-7389-4964-a8ff-e071bff7e96c",
@@ -992,6 +1037,7 @@ export const tableRowData: TableRowInterface[] = [
       "favoriteFruit": "apple"
     },
     {
+      "total": "",
       "id": "63dd1bbc46167749974a3554",
       "index": 45,
       "guid": "8e4df023-5d37-4207-ae48-b883e8a15f33",
@@ -1014,6 +1060,7 @@ export const tableRowData: TableRowInterface[] = [
       "favoriteFruit": "banana"
     },
     {
+      "total": "",
       "id": "63dd1bbcc4af9c7a6987541d",
       "index": 46,
       "guid": "3d4ec611-4f32-4548-a5dc-51f1a6153475",
@@ -1036,6 +1083,7 @@ export const tableRowData: TableRowInterface[] = [
       "favoriteFruit": "banana"
     },
     {
+      "total": "",
       "id": "63dd1bbc6853d66793556c03",
       "index": 47,
       "guid": "6d9d8e9d-ce72-4d8b-bb15-d1c6b42ce5c9",
@@ -1058,6 +1106,7 @@ export const tableRowData: TableRowInterface[] = [
       "favoriteFruit": "apple"
     },
     {
+      "total": "",
       "id": "63dd1bbcf0d3c69242b8b0bb",
       "index": 48,
       "guid": "6370040a-0ac1-41aa-a641-5bb142efb23d",
@@ -1080,6 +1129,7 @@ export const tableRowData: TableRowInterface[] = [
       "favoriteFruit": "apple"
     },
     {
+      "total": "",
       "id": "63dd1bbce08417f309b08d28",
       "index": 49,
       "guid": "e4697da5-a082-4672-ae29-9a4176b9d88a",
@@ -1102,6 +1152,7 @@ export const tableRowData: TableRowInterface[] = [
       "favoriteFruit": "apple"
     },
     {
+      "total": "",
       "id": "63dd1bbc8a2f19d80618420b",
       "index": 50,
       "guid": "78b584c1-1c86-42e3-9a88-d195c1976bac",
@@ -1124,6 +1175,7 @@ export const tableRowData: TableRowInterface[] = [
       "favoriteFruit": "strawberry"
     },
     {
+      "total": "",
       "id": "63dd1bbc6db12625b39553cd",
       "index": 51,
       "guid": "f6e5aa11-c588-475a-9cb8-d3c9ae95ee60",
@@ -1146,6 +1198,7 @@ export const tableRowData: TableRowInterface[] = [
       "favoriteFruit": "banana"
     },
     {
+      "total": "",
       "id": "63dd1bbc0b7b0adb8b58bff7",
       "index": 52,
       "guid": "166a94e7-c0d2-4e0b-9514-b9362cfbef21",
@@ -1168,6 +1221,7 @@ export const tableRowData: TableRowInterface[] = [
       "favoriteFruit": "banana"
     },
     {
+      "total": "",
       "id": "63dd1bbc7882ba903bd107b3",
       "index": 53,
       "guid": "82fb5650-b854-4e3e-998d-6a8e401a962e",
@@ -1190,6 +1244,7 @@ export const tableRowData: TableRowInterface[] = [
       "favoriteFruit": "strawberry"
     },
     {
+      "total": "",
       "id": "63dd1bbc197e46be48f14568",
       "index": 54,
       "guid": "a2401490-c54b-4ad7-833f-bdc77c94cd7e",
@@ -1212,6 +1267,7 @@ export const tableRowData: TableRowInterface[] = [
       "favoriteFruit": "banana"
     },
     {
+      "total": "",
       "id": "63dd1bbc922627134f6ae85f",
       "index": 55,
       "guid": "2df1977c-e272-4a8f-9ce7-e39a9365b06c",
@@ -1234,6 +1290,7 @@ export const tableRowData: TableRowInterface[] = [
       "favoriteFruit": "strawberry"
     },
     {
+      "total": "",
       "id": "63dd1bbcdc341367267e1e5d",
       "index": 56,
       "guid": "5db14a14-5648-497b-8aaa-b15122945e24",
@@ -1256,6 +1313,7 @@ export const tableRowData: TableRowInterface[] = [
       "favoriteFruit": "strawberry"
     },
     {
+      "total": "",
       "id": "63dd1bbc11c209443a555e00",
       "index": 57,
       "guid": "2c26a0bf-cbb4-4ae0-8143-79f988e13c67",
@@ -1278,6 +1336,7 @@ export const tableRowData: TableRowInterface[] = [
       "favoriteFruit": "apple"
     },
     {
+      "total": "",
       "id": "63dd1bbcf230e60a8cbdf15b",
       "index": 58,
       "guid": "694ad762-4fce-4643-a6cb-7665e50ee636",
@@ -1300,6 +1359,7 @@ export const tableRowData: TableRowInterface[] = [
       "favoriteFruit": "apple"
     },
     {
+      "total": "",
       "id": "63dd1bbcb2b4f910f1f28a87",
       "index": 59,
       "guid": "b296e863-9740-4adf-9d02-016dd05faad9",
@@ -1322,6 +1382,7 @@ export const tableRowData: TableRowInterface[] = [
       "favoriteFruit": "strawberry"
     },
     {
+      "total": "",
       "id": "63dd1bbccc619bdd3200c12a",
       "index": 60,
       "guid": "964ad3bf-e68d-49e8-a07e-28fe71aa1aff",
@@ -1344,6 +1405,7 @@ export const tableRowData: TableRowInterface[] = [
       "favoriteFruit": "apple"
     },
     {
+      "total": "",
       "id": "63dd1bbc54085c5e313125b1",
       "index": 61,
       "guid": "a634821c-b10c-4279-9926-4c3ed26743be",
@@ -1366,6 +1428,7 @@ export const tableRowData: TableRowInterface[] = [
       "favoriteFruit": "strawberry"
     },
     {
+      "total": "",
       "id": "63dd1bbc1e236f8b3b319be5",
       "index": 62,
       "guid": "74b4fbbb-223c-42c6-8925-94fe35b98b71",
@@ -1388,6 +1451,7 @@ export const tableRowData: TableRowInterface[] = [
       "favoriteFruit": "apple"
     },
     {
+      "total": "",
       "id": "63dd1bbc61099ebacbe9f9af",
       "index": 63,
       "guid": "b6237d40-b4f9-4a55-b228-942269185563",
@@ -1410,6 +1474,7 @@ export const tableRowData: TableRowInterface[] = [
       "favoriteFruit": "banana"
     },
     {
+      "total": "",
       "id": "63dd1bbc85b47ef694f4ca2f",
       "index": 64,
       "guid": "bd24208f-e95e-41ce-8277-054b862aec9c",
@@ -1432,6 +1497,7 @@ export const tableRowData: TableRowInterface[] = [
       "favoriteFruit": "banana"
     },
     {
+      "total": "",
       "id": "63dd1bbcf299810c9f2937ee",
       "index": 65,
       "guid": "1b83966c-f8b6-405b-951d-6a99b3394f95",
@@ -1454,6 +1520,7 @@ export const tableRowData: TableRowInterface[] = [
       "favoriteFruit": "strawberry"
     },
     {
+      "total": "",
       "id": "63dd1bbcafcc9d840c6eddce",
       "index": 66,
       "guid": "9135c8bd-b226-42fd-938b-4e02b5d43382",
@@ -1476,6 +1543,7 @@ export const tableRowData: TableRowInterface[] = [
       "favoriteFruit": "apple"
     },
     {
+      "total": "",
       "id": "63dd1bbcb613891dcf90a445",
       "index": 67,
       "guid": "80819a41-7e65-47f2-a40a-3dbc770ce364",
@@ -1498,6 +1566,7 @@ export const tableRowData: TableRowInterface[] = [
       "favoriteFruit": "strawberry"
     },
     {
+      "total": "",
       "id": "63dd1bbc3ac25008e9c0455d",
       "index": 68,
       "guid": "042c7611-41ab-4fc6-8445-7ef20491e69b",
@@ -1520,6 +1589,7 @@ export const tableRowData: TableRowInterface[] = [
       "favoriteFruit": "apple"
     },
     {
+      "total": "",
       "id": "63dd1bbcbb7f96dfd73658ce",
       "index": 69,
       "guid": "92ca9a7c-71ba-442a-9f38-d803b2237abf",
@@ -1542,6 +1612,7 @@ export const tableRowData: TableRowInterface[] = [
       "favoriteFruit": "banana"
     },
     {
+      "total": "",
       "id": "63dd1bbc364d1e503ef3f3cf",
       "index": 70,
       "guid": "9e3c6fed-ae2d-4d74-acc5-fe918288f960",
@@ -1564,6 +1635,7 @@ export const tableRowData: TableRowInterface[] = [
       "favoriteFruit": "banana"
     },
     {
+      "total": "",
       "id": "63dd1bbc49add46f3ce425a5",
       "index": 71,
       "guid": "672dab2b-c0b6-4a3c-8878-6d8b2f0a7111",
@@ -1586,6 +1658,7 @@ export const tableRowData: TableRowInterface[] = [
       "favoriteFruit": "banana"
     },
     {
+      "total": "",
       "id": "63dd1bbc1e6d5d66f54bc324",
       "index": 72,
       "guid": "e598ba09-d70b-49e4-afe7-a456345901ee",
@@ -1608,6 +1681,7 @@ export const tableRowData: TableRowInterface[] = [
       "favoriteFruit": "strawberry"
     },
     {
+      "total": "",
       "id": "63dd1bbc5a384dadcbc5c121",
       "index": 73,
       "guid": "6aedd5e0-b76e-41bc-aa9a-fc11dfca9774",
@@ -1630,6 +1704,7 @@ export const tableRowData: TableRowInterface[] = [
       "favoriteFruit": "strawberry"
     },
     {
+      "total": "",
       "id": "63dd1bbcc8113964834f72bb",
       "index": 74,
       "guid": "34205fb4-c131-401e-b063-d3927d57b240",
@@ -1652,6 +1727,7 @@ export const tableRowData: TableRowInterface[] = [
       "favoriteFruit": "banana"
     },
     {
+      "total": "",
       "id": "63dd1bbcdf8aef8bf5d84b08",
       "index": 75,
       "guid": "a1946c20-c8ac-4a7d-9e97-102250f02eea",
@@ -1674,6 +1750,7 @@ export const tableRowData: TableRowInterface[] = [
       "favoriteFruit": "strawberry"
     },
     {
+      "total": "",
       "id": "63dd1bbc7eb49d1cc8bbf928",
       "index": 76,
       "guid": "9b6982bf-8c02-4b62-b029-40f30b533c7f",
@@ -1696,6 +1773,7 @@ export const tableRowData: TableRowInterface[] = [
       "favoriteFruit": "banana"
     },
     {
+      "total": "",
       "id": "63dd1bbc7751cafe83d7bfe7",
       "index": 77,
       "guid": "459331b7-46d6-41e9-985d-d102d67385ed",
@@ -1718,6 +1796,7 @@ export const tableRowData: TableRowInterface[] = [
       "favoriteFruit": "strawberry"
     },
     {
+      "total": "",
       "id": "63dd1bbc4255782643005c43",
       "index": 78,
       "guid": "8689cfb1-1955-43d3-851a-db3308e111b8",
@@ -1740,6 +1819,7 @@ export const tableRowData: TableRowInterface[] = [
       "favoriteFruit": "apple"
     },
     {
+      "total": "",
       "id": "63dd1bbc7337b23ea7f221bf",
       "index": 79,
       "guid": "c4e3c693-cc4b-4167-ad66-7b1aaf7e60c7",
@@ -1762,6 +1842,7 @@ export const tableRowData: TableRowInterface[] = [
       "favoriteFruit": "apple"
     },
     {
+      "total": "",
       "id": "63dd1bbc2d3dace324bea7c0",
       "index": 80,
       "guid": "d0be7c99-5be1-4bc9-9109-51a63aff4173",
@@ -1784,6 +1865,7 @@ export const tableRowData: TableRowInterface[] = [
       "favoriteFruit": "banana"
     },
     {
+      "total": "",
       "id": "63dd1bbcb49771264e28e390",
       "index": 81,
       "guid": "905d9250-f96a-40b9-a52c-e9d3b3438e8c",
@@ -1806,6 +1888,7 @@ export const tableRowData: TableRowInterface[] = [
       "favoriteFruit": "banana"
     },
     {
+      "total": "",
       "id": "63dd1bbc984e8efe4d5c7d8e",
       "index": 82,
       "guid": "ae490c3b-7fe2-471c-a41b-747c88c483b2",
@@ -1828,6 +1911,7 @@ export const tableRowData: TableRowInterface[] = [
       "favoriteFruit": "apple"
     },
     {
+      "total": "",
       "id": "63dd1bbc75152563b289c5cd",
       "index": 83,
       "guid": "c7e2baef-9d3d-4ed3-954d-bba19ed67030",
@@ -1850,6 +1934,7 @@ export const tableRowData: TableRowInterface[] = [
       "favoriteFruit": "apple"
     },
     {
+      "total": "",
       "id": "63dd1bbc39e2dffaa46020fb",
       "index": 84,
       "guid": "9c6e8652-6c96-4e89-8f3a-9b3bebf62d3f",
@@ -1872,6 +1957,7 @@ export const tableRowData: TableRowInterface[] = [
       "favoriteFruit": "apple"
     },
     {
+      "total": "",
       "id": "63dd1bbcadf6854292614708",
       "index": 85,
       "guid": "74f9b16d-9720-47c5-b9e9-3c66e71c68d0",
@@ -1894,6 +1980,7 @@ export const tableRowData: TableRowInterface[] = [
       "favoriteFruit": "banana"
     },
     {
+      "total": "",
       "id": "63dd1bbcca50500e50430eae",
       "index": 86,
       "guid": "e71cf486-a98d-4b17-8ec0-e14d5b554ccf",
@@ -1916,6 +2003,7 @@ export const tableRowData: TableRowInterface[] = [
       "favoriteFruit": "banana"
     },
     {
+      "total": "",
       "id": "63dd1bbc8b8963335b57d0ea",
       "index": 87,
       "guid": "49e9d774-5815-43f6-9778-7e28d096db60",
@@ -1938,6 +2026,7 @@ export const tableRowData: TableRowInterface[] = [
       "favoriteFruit": "banana"
     },
     {
+      "total": "",
       "id": "63dd1bbcb190a5c2b66f0b8d",
       "index": 88,
       "guid": "b63b1a36-fa2d-4566-b394-213a76788855",
@@ -1960,6 +2049,7 @@ export const tableRowData: TableRowInterface[] = [
       "favoriteFruit": "strawberry"
     },
     {
+      "total": "",
       "id": "63dd1bbcf07320fdefbc0840",
       "index": 89,
       "guid": "ac261d15-f320-4244-8317-af58941bfc05",
@@ -1982,6 +2072,7 @@ export const tableRowData: TableRowInterface[] = [
       "favoriteFruit": "strawberry"
     },
     {
+      "total": "",
       "id": "63dd1bbc185326368ce9317a",
       "index": 90,
       "guid": "f528f7b7-a9a5-44cb-87f8-ca677a49fc0b",
@@ -2004,6 +2095,7 @@ export const tableRowData: TableRowInterface[] = [
       "favoriteFruit": "strawberry"
     },
     {
+      "total": "",
       "id": "63dd1bbc2c80bf4650bc44f0",
       "index": 91,
       "guid": "9f2e6a59-2d6c-4024-9a79-c31accbd8d36",
@@ -2026,6 +2118,7 @@ export const tableRowData: TableRowInterface[] = [
       "favoriteFruit": "strawberry"
     },
     {
+      "total": "",
       "id": "63dd1bbc081affdc088f9ad0",
       "index": 92,
       "guid": "559e1a7c-0939-4096-ba3b-81e5716a7518",
@@ -2048,6 +2141,7 @@ export const tableRowData: TableRowInterface[] = [
       "favoriteFruit": "banana"
     },
     {
+      "total": "",
       "id": "63dd1bbc7e93ef3f919ec3ac",
       "index": 93,
       "guid": "50128d12-3178-49a0-b0d9-692c4acb6ff0",
@@ -2070,6 +2164,7 @@ export const tableRowData: TableRowInterface[] = [
       "favoriteFruit": "strawberry"
     },
     {
+      "total": "",
       "id": "63dd1bbc52e293b1c7e881fa",
       "index": 94,
       "guid": "e58caf2f-9bd1-4a37-b6b9-f933e4101550",
@@ -2092,6 +2187,7 @@ export const tableRowData: TableRowInterface[] = [
       "favoriteFruit": "banana"
     },
     {
+      "total": "",
       "id": "63dd1bbcc670cac3dd7b98ac",
       "index": 95,
       "guid": "0b4ea3e8-72bb-4cb1-a717-a1d0ba9bb8ff",
@@ -2114,6 +2210,7 @@ export const tableRowData: TableRowInterface[] = [
       "favoriteFruit": "banana"
     },
     {
+      "total": "",
       "id": "63dd1bbce4b9f3acaca04266",
       "index": 96,
       "guid": "0090fca1-c9fa-426a-9fae-64d3370fe63b",
@@ -2136,6 +2233,7 @@ export const tableRowData: TableRowInterface[] = [
       "favoriteFruit": "apple"
     },
     {
+      "total": "",
       "id": "63dd1bbc37cf53e5a86fb8d3",
       "index": 97,
       "guid": "dc47c7ef-4efd-4b3a-a046-764af6fc0925",
@@ -2158,6 +2256,7 @@ export const tableRowData: TableRowInterface[] = [
       "favoriteFruit": "strawberry"
     },
     {
+      "total": "",
       "id": "63dd1bbc6bbbeee3525db172",
       "index": 98,
       "guid": "399a7bfc-593e-47cf-b3fb-5f7dd0862dfc",
