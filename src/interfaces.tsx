@@ -23,11 +23,11 @@ export interface TableRowInterface {
 }
 
 export interface TableColumnDataInterface {
-    Header?: string,
-    accessor?: string,
+    Header: string,
+    accessor: string,
     className?: string,
     headerClassName?: string,
-    width?: number
+    width: number
     Footer?: string
 }
 

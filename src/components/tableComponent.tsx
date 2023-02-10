@@ -22,7 +22,7 @@ const TableComponent = ({ tableRowData, tableColumnData } : TableInterface) => {
   };
 
   const addFooter = (data: TableColumnDataInterface[], sum: TableSumInterface ) => {
-    return data.map((obj: any) => {
+    return data.map((obj: TableColumnDataInterface) => {
       const header = obj.Header.toLowerCase();
       if (header in sum) {
         return { ...obj, Footer: sum[header].toString() };
