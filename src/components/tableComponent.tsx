@@ -1,47 +1,37 @@
 import ReactTable from "react-table";
 import "react-table/react-table.css";
-import { TableInterface, TableRowInterface, TableColumnDataInterface, SumInterface } from "../interfaces";
+import { TableInterface, TableRowInterface, TableColumnDataInterface, TableSumInterface } from "../interfaces";
 
 const TableComponent = ({ tableRowData, tableColumnData } : TableInterface) => {
 
-  const sumColumns = (tableData: TableRowInterface[]) => {
+  const sumProperties = (tableData: TableRowInterface[]): {[key: string]: number} => {
+    const result: {
+      [key: string]: number
+    } = {};
 
-    let sum: SumInterface = {
-      index: 0, 
-      age: 0,
-      latitude: 0, 
-      longitude: 0
-    };
-
-    tableData.forEach((item) => {
-      sum.age += item.age;
-      sum.index += item.index;
-      sum.latitude += item.latitude;
-      sum.longitude += item.longitude;
+    tableData.forEach(obj => {
+      Object.keys(obj).forEach(key => {
+        const k: keyof TableRowInterface = key as keyof TableRowInterface;
+        if (typeof obj[k] === 'number') {
+          result[k] = (result[k] || 0) + Number(obj[k]);
+        }
+      });
     });
 
-    return sum;
+    return result;
   };
 
-  const addFooter = (newTableColumnsData: TableColumnDataInterface[], sum: SumInterface) => {
-    newTableColumnsData.forEach(item => {
-      if (item.Header === '') {
-        item.Footer = 'Total';
-      } else if (item.Header === 'Index') {
-        item.Footer = sum.index.toString();
-      } else if (item.Header === 'Age') {
-        item.Footer = sum.age.toString();
-      } else if (item.Header === 'Latitude') {
-        item.Footer = sum.latitude.toString();
-      } else if (item.Header === 'Longitude') {
-        item.Footer = sum.longitude.toString();
+  const addFooter = (data: TableColumnDataInterface[], sum: TableSumInterface ) => {
+    return data.map((obj: any) => {
+      const header = obj.Header.toLowerCase();
+      if (header in sum) {
+        return { ...obj, Footer: sum[header].toString() };
+      } else if (header === '') {
+        return { ...obj, Footer: 'Total' };
       }
-    });
-    return newTableColumnsData;
+      return obj;
+    })
   };
-
-  const sum = sumColumns(tableRowData);
-  const newTableColumnsData = addFooter(tableColumnData, sum);
   
   return (
     <div>
@@ -50,7 +40,7 @@ const TableComponent = ({ tableRowData, tableColumnData } : TableInterface) => {
         showPagination={true}
         defaultPageSize={20}
         className="-striped -highlight"
-        columns={newTableColumnsData} />
+        columns={addFooter(tableColumnData, sumProperties(tableRowData))} />
     </div>
   );
 };

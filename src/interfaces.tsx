@@ -36,9 +36,6 @@ export interface TableInterface {
     tableColumnData: TableColumnDataInterface[] 
 }
 
-export interface SumInterface {
-    index: number,
-    age: number, 
-    latitude: number,
-    longitude: number
+export interface TableSumInterface {
+    [key: string]: number;
 }
